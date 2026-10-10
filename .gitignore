@@ -1,0 +1,17 @@
+# Entorno virtual y caché de Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Variables de entorno y secretos
+.env
