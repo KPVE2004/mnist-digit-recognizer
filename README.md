@@ -75,11 +75,25 @@ La documentación interactiva (Swagger UI) queda disponible en `http://127.0.0.1
 
 ## 📸 Capturas
 
+### Interfaz principal
+
 ![Interfaz principal](docs/interfaz.png)
 ![Interfaz principal (parte 2)](docs/interfaz2.png)
+
+### Dibujar dígito
+
 ![Dibujar dígito](docs/dibujar-digito.png)
+
+### Resultados
+
 ![Resultados](docs/resultados.png)
+
+### Gráfica de los resultados
+
 ![Gráfica de los resultados](docs/grafica.png)
+
+### Top 3 en base a los resultados
+
 ![Top 3 en base a los resultados](docs/top3.png)
 
 ---
