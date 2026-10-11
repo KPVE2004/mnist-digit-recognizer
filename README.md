@@ -298,4 +298,4 @@ Python 3.12 · TensorFlow / Keras · FastAPI · Uvicorn · NumPy · Pillow · Do
 
 **Katia Paola Victoria Escalera**
 
-[GitHub](https://github.com/KPVE2004) · [LinkedIn](https://www.linkedin.com/in/katia-paola-victoria-escalera-148688442/) · [Email](mailto:kp_victoria08@hotmail.com)
+[GitHub](https://github.com/KPVE2004) · [LinkedIn](https://www.linkedin.com/in/katia-victoria) · [Email](mailto:kp_victoria08@hotmail.com)
